@@ -16,6 +16,6 @@ Academic project : Web application to manage a car rental agency:
 <li>JavaScript</li>
 <li>MySQL</li>
 </ul>
-<h3>Contribution:<h3>
+<h3>Contributor:<h3>
 <p>Abdassamd El Moujtahid</p>
 
